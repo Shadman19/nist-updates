@@ -1,0 +1,7 @@
+requests==2.32.3
+beautifulsoup4==4.12.3
+trafilatura==1.7.0
+markdownify==0.13.1
+python-dotenv==1.0.1
+openai==1.51.0
+PyGithub==2.5.0
